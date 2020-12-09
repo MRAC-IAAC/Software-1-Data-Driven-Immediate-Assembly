@@ -23,7 +23,7 @@ This project was driven by the idea of working with inflatable architecture, by 
 * The following diagram is a visual representation of how the code works, along with a set of detailed explanations of the process
 
 
-![text](doc/tetrahedron-grid.jpg)
+![text](doc/FIRST-ITERATION-DIAGRAM.jpg)
 
 1. create a 3d tetrahedron checkerboard that allows cells to connect at their vertices only
 2. using the boundary of the void you are filling, aggregate the generic cells inside
@@ -34,8 +34,9 @@ This project was driven by the idea of working with inflatable architecture, by 
 7. each group is processed through an inflation simulation that results in varyng inflated cells with a final result for the system
 
  ![text](doc/flocking-aggregations.jpg)
+ 
+ ![text](doc/INFLATING-MODEL-DIAGRAM.jpg)
 
-# References
 
 # Credits
 **DATA-DRIVEN IMMEDIATE ASSEMBLY // SOFTWARE I** is a project of IAAC, Institute for Advanced Architecture of Catalonia developed at the **Master in Robotics and Advanced Construction** in **2020/2021** by:
